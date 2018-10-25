@@ -1,9 +1,3 @@
-//
-//  AppDelegate.swift
-//  Table View Demo
-//
-//  Created by Shane O'Mahony on 24/10/2018.
-//
 
 import UIKit
 
